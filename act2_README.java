@@ -1,6 +1,6 @@
 Activity # 2 Instruction – Java Programming
 
-Good evening @everyone ! Please follow the instructions carefully for our next activity.
+Good day everyone ! Please follow the instructions carefully for our next activity.
 
 1: Study the given Java coding pattern:
 
