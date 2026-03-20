@@ -66,6 +66,10 @@ DateTimeFormatter format = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
 
 This formatter will be used to display the login time, activity time, and logout time.
 
+5. Useful code:
+
+activityTime.format(format)
+    
 Submission Options:
 
 1. Send the Programiz link of your code (just ping it to my Messenger), OR
